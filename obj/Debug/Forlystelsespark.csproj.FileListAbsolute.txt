@@ -1,0 +1,18 @@
+C:\Users\Anders\Desktop\CS kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.exe.config
+C:\Users\Anders\Desktop\CS kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.exe
+C:\Users\Anders\Desktop\CS kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.pdb
+C:\Users\Anders\Desktop\CS kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.csprojResolveAssemblyReference.cache
+C:\Users\Anders\Desktop\CS kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.exe
+C:\Users\Anders\Desktop\CS kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.pdb
+C:\Users\Anders\Desktop\C# kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.exe.config
+C:\Users\Anders\Desktop\C# kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.exe
+C:\Users\Anders\Desktop\C# kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.pdb
+C:\Users\Anders\Desktop\C# kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.exe
+C:\Users\Anders\Desktop\C# kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.pdb
+C:\Users\Anders\Desktop\C# kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.csprojResolveAssemblyReference.cache
+F:\Formatering bærbar\UCN\C# Kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.exe.config
+F:\Formatering bærbar\UCN\C# Kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.exe
+F:\Formatering bærbar\UCN\C# Kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.exe
+F:\Formatering bærbar\UCN\C# Kode\Forlystelsespark\Forlystelsespark\bin\Debug\Forlystelsespark.pdb
+F:\Formatering bærbar\UCN\C# Kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.csprojResolveAssemblyReference.cache
+F:\Formatering bærbar\UCN\C# Kode\Forlystelsespark\Forlystelsespark\obj\Debug\Forlystelsespark.pdb
